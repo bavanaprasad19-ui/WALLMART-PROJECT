@@ -25,10 +25,13 @@ This project analyzes Walmart sales data using Power BI to identify sales trends
 * MS Elevate AICTE Internship - Project template.pptx – Project presentation
 
 ## Dashboard Preview
-Dashboard1.png
-Dashboard2.png
-Dashboard3.png
-Dashboard4.png
+![Dashboard](dashboard1.png)
+
+![Dashboard](dashboard2.png)
+
+![Dashboard](dashboard3.png)
+
+[Dashboard](dashboard4.png)
 
 ## How to Use
 
